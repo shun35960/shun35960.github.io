@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 長谷部 舜 - 職務経歴書
+title: 長谷部 舜
 ---
 
 # 職務経歴書
